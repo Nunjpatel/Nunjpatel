@@ -31,5 +31,7 @@ Email: nunjpatel@gmail.com
 
 💡 Key Projects
 •Accenture North America - Data Analytics and Visualization Job Simulation: Completed hands-on experience course via Forage, focusing on data analysis and visualization using Microsoft Excel.
+
 •Online Library Website: Developed a full-featured online library like Kindle, including front-end and back-end development, user authentication, secure password hashing, and SQL database management.
+
 •Flappy Bird Game: Designed and developed a game using Unity, including game mechanics, 2D asset creation, programming gameplay features, computer graphics, and optimization through iterative testing.
