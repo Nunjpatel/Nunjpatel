@@ -9,10 +9,15 @@ I love working on new challenges and leveraging my skills in Data Analysis, Soft
     January 2021 – December 2023, Dean's Honour Award for academic performance.
 
 🔭 I’m currently exploring new opportunities in Business Systems Analysis, data analysis and Software Development.
+
 🌱 I’m currently learning Python, SQL, and Power BI to enhance my Data Analytics and Visualization skills.
+
 💼 I have experience working with various technologies and tools including Microsoft Office Suite, Jira, Tableau, and Power BI.
+
 💬 Ask me about Data Analytics, Customer Service Management, and Technical Support.
+
 ⚡ Fun fact: I'm a problem-solver who enjoys finding solutions to complex technical challenges, and I'm always excited to learn something new!
+
 🔧 KEY SKILLS and tools:
                 •Skills & Interests: Coding, Mathematics, Data Structures, Web Development, Graphics Design, Communication, Administration
                 •Technical Skills: Data Visualization, Data Analysis, Python, C#, HTML, SQL, Java, JavaScript, CSS.
