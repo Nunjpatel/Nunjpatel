@@ -29,7 +29,8 @@ I love working on new challenges and leveraging my skills in Data Analysis, Soft
 LinkedIn: http://www.linkedin.com/in/nunj-patel-05a411220
 Email: nunjpatel@gmail.com
 
-💡 Key Projects
+💡 Key Projects:
+
 •Accenture North America - Data Analytics and Visualization Job Simulation: Completed hands-on experience course via Forage, focusing on data analysis and visualization using Microsoft Excel.
 
 •Online Library Website: Developed a full-featured online library like Kindle, including front-end and back-end development, user authentication, secure password hashing, and SQL database management.
