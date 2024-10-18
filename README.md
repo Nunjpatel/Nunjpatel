@@ -20,13 +20,13 @@ I love working on new challenges and leveraging my skills in Data Analysis, Soft
 
 🔧 KEY SKILLS and tools:
                 
-                •Skills & Interests: Coding, Mathematics, Data Structures, Web Development, Graphics Design, Communication, Administration
+•Skills & Interests: Coding, Mathematics, Data Structures, Web Development, Graphics Design, Communication, Administration
                 
-                •Technical Skills: Data Visualization, Data Analysis, Python, C#, HTML, SQL, Java, JavaScript, CSS.
+•Technical Skills: Data Visualization, Data Analysis, Python, C#, HTML, SQL, Java, JavaScript, CSS.
                 
-                •Tools: Power BI, Tableau, Excel, Unity game engine, Lucid Charts, Access, PowerPoint, Shell, VS Code, GitHub, Eclipse, POS.
+•Tools: Power BI, Tableau, Excel, Unity game engine, Lucid Charts, Access, PowerPoint, Shell, VS Code, GitHub, Eclipse, POS.
                 
-                •Soft Skills: Self-learner, Problem-solving, Attention to detail, Startup Vision, Leadership, Teamwork, and management.
+•Soft Skills: Self-learner, Problem-solving, Attention to detail, Startup Vision, Leadership, Teamwork, and management.
 
 
 📫 How to reach me
