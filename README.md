@@ -1,20 +1,17 @@
 👋 Hi, I'm Nunj Patel
 🚀 About Me
-I'm a passionate and driven individual with a background in Computer Science and experience in Technical Support, Business Development, and Customer Service. 
-I love working on new challenges and leveraging my skills in Data Analysis, Software Development, and Cloud Computing.
+I'm a Data-Driven Technical Professional, passionate about transforming complex data into actionable insights.
 
 🎓 Education
     Bachelor of Science in Computer Science
     Trent University
     January 2021 – December 2023, Dean's Honour Award for academic performance.
 
-🔭 I’m currently exploring new opportunities in Business Systems Analysis, data analysis and Software Development.
-
-🌱 I’m currently learning Python, SQL, and Power BI to enhance my Data Analytics and Visualization skills.
+🌱 I’m am proefficient in Python, SQL, and Power BI, Data Analytics and Visualization.
 
 💼 I have experience working with various technologies and tools including Microsoft Office Suite, Jira, Tableau, and Power BI.
 
-💬 Ask me about Data Analytics, Customer Service Management, and Technical Support.
+💬 Ask me about Data Analytics, Data visualization, and Technical Support.
 
 ⚡ Fun fact: I'm a problem-solver who enjoys finding solutions to complex technical challenges, and I'm always excited to learn something new!
 
