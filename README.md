@@ -1,6 +1,6 @@
 # Hi, I'm Nunj Patel 👋
 
-### 📊 Data Analyst · 🏙️ Toronto, Ontario · 🇨🇦 Open to Remote
+### 📊 Data Analyst · 🏙️ Toronto, Ontario ·
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nunjpatel/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nunjpatel@gmail.com)
@@ -12,7 +12,7 @@
 
 I'm a **Computer Science graduate** (B.Sc., Data Science & Software Development — Trent University 🎓) with hands-on experience turning messy data into decisions people can act on.
 
-I recently completed a **6-month Data Analyst internship** where I:
+I recently completed a ** Data Analyst internship** where I:
 - ⚡ Built automated ETL pipelines that cut manual processing time by **30%**
 - 📈 Developed Power BI & Tableau dashboards used daily by business and operations teams
 - 🎯 Reduced reporting errors by **25%** by identifying data quality issues across live datasets
@@ -58,15 +58,11 @@ I recently completed a **6-month Data Analyst internship** where I:
 
 ## 🌍 Languages I Speak
 
-`English` `Gujarati` `Hindi` `Swahili` `Punjabi` `French (Beginner)`
+`English` `Gujarati` `Hindi` `Swahili` `Punjabi` `French`
 
 ---
 
 ## 📬 Let's Connect!
-
-I'm actively looking for **junior Data Analyst roles** in Canada — open to remote! 🚀
-
-If you're working on something interesting with data, or have a role you think I'd be a great fit for, I'd love to hear from you.
 
 📧 **nunjpatel@gmail.com**
 💼 **[linkedin.com/in/nunjpatel](https://www.linkedin.com/in/nunjpatel/)**
