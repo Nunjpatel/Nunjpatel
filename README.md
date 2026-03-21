@@ -1,41 +1,84 @@
-👋 Hi, I'm Nunj Patel
-🚀 About Me
-I'm a Data-Driven Technical Professional, passionate about transforming complex data into actionable insights.
-
-🎓 Education
-    Bachelor of Science in Computer Science
-    Trent University
-    January 2021 – December 2023, Dean's Honour Award for academic performance.
-
-🌱 I’m am proefficient in Python, SQL, and Power BI, Data Analytics and Visualization.
-
-💼 I have experience working with various technologies and tools including Microsoft Office Suite, Jira, Tableau, and Power BI.
-
-💬 Ask me about Data Analytics, Data visualization, and Technical Support.
-
-⚡ Fun fact: I'm a problem-solver who enjoys finding solutions to complex technical challenges, and I'm always excited to learn something new!
-
-🔧 KEY SKILLS and tools:
-                
-•Skills & Interests: Coding, Mathematics, Data Structures, Web Development, Graphics Design, Communication, Administration
-                
-•Technical Skills: Data Visualization, Data Analysis, Python, C#, HTML, SQL, Java, JavaScript, CSS.
-                
-•Tools: Power BI, Tableau, Excel, Unity game engine, Lucid Charts, Access, PowerPoint, Shell, VS Code, GitHub, Eclipse, POS.
-                
-•Soft Skills: Self-learner, Problem-solving, Attention to detail, Startup Vision, Leadership, Teamwork, and management.
-
-
-📫 How to reach me
-LinkedIn: http://www.linkedin.com/in/nunj-patel-05a411220
-Email: nunjpatel@gmail.com
-
-💡 Key Projects:
-
-•Accenture North America - Data Analytics and Visualization Job Simulation: Completed hands-on experience course via Forage, focusing on data analysis and visualization using Microsoft Excel.
-
-•Online Library Website: Developed a full-featured online library like Kindle, including front-end and back-end development, user authentication, secure password hashing, and SQL database management.
-
-•Flappy Bird Game: Designed and developed a game using Unity, including game mechanics, 2D asset creation, programming gameplay features, computer graphics, and optimization through iterative testing.
-
-•Personal Portfolio Website: My personal portfolio showcasing my skills, projects, and experiences. Built with HTML, CSS, and JavaScript for a responsive design.
+Hi, I'm Nunj Patel 👋
+📊 Data Analyst · 🏙️ Toronto, Ontario · 🇨🇦🇨🇦 Open to Remote
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nunjpatel/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nunjpatel@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nunjpatel)
+🙋‍♂️ About Me
+I'm a
+Computer Science graduate
+(B.Sc., Data Science & Software Development — TrentUniversity 🎓) with hands-on experience turning messy data into decisions people can act on.
+I recently completed a
+6-month Data Analyst internship
+where I:
+⚡ Built automated ETL pipelines that cut manual processing time by
+30%
+📈 Developed Power BI & Tableau dashboards used daily by business and operations teams
+🎯 Reduced reporting errors by
+25%
+by identifying data quality issues across live datasets
+💡
+I care about clean data, clear storytelling, and building things that actually get used.
+🛠️
+Tech Stack
+Category
+Tools
+🐍 Languages
+Python · SQL · R
+Category
+Tools
+📊 BI & Visualization
+Power BI · Tableau · Matplotlib · Excel
+🔄 Data & ETL
+Pandas · NumPy · Data Cleaning · Statistical Analysis
+🗄️
+Databases
+MySQL · MS SQL Server
+🧰 Tools
+Git · VS Code · JIRA
+🚀 Featured Projects
+📈 NVIDIA Stock Price Analysis
+End-to-end stock analysis pipeline using Python and MS SQL Server. Covers data cleaning,20-day moving averages, volatility analysis, daily return calculations, and Matplotlibvisualizations.
+Python
+Pandas
+NumPy
+SQL Server
+Matplotlib
+🔗
+View Project →
+🏅 Certifications
+Certification
+Issuer
+Date
+🐍 Python for Data Science
+IBM
+Feb 2025
+📊 Complete Data Science Training
+Udemy
+Oct 2024
+📋 Power BI Training
+LinkedIn Learning
+Sept 2024
+📉 Tableau 2024 Training
+LinkedIn Learning
+Jun 2024
+🧠 Business Analysis Fundamentals
+Udemy
+Aug 2024
+🌍 Languages I Speak
+English
+Gujarati
+Hindi
+Swahili
+Punjabi
+French (Beginner)
+📬 Let's Connect!
+I'm actively looking for
+junior Data Analyst roles
+in Canada — open to remote! 🚀
+If you're working on something interesting with data, or have a role you think I'd be a great fit for,I'd love to hear from you.
+📧
+nunjpatel@gmail.com
+💼
+linkedin.com/in/nunjpatel
+⭐
+If you find any of my projects useful, feel free to star the repo — it helps a lot!
