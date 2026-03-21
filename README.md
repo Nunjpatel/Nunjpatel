@@ -78,3 +78,46 @@ nunjpatel@gmail.com
 linkedin.com/in/nunjpatel
 ⭐
 If you find any of my projects useful, feel free to star the repo — it helps a lot!
+
+
+## 🚀 Featured Projects
+
+### 📈 NVIDIA Stock Price Analysis
+> End-to-end stock analysis pipeline using Python and MS SQL Server. Covers data cleaning, 20-day moving averages, volatility analysis, daily return calculations, and Matplotlib visualizations.
+
+`Python` `Pandas` `NumPy` `SQL Server` `Matplotlib`
+
+🔗 [View Project →](https://github.com/Nunjpatel/Nvidia-Stock-analysis)
+
+---
+
+## 🏅 Certifications
+
+| Certification | Issuer | Date |
+|---|---|---|
+| 🐍 Python for Data Science | IBM | Feb 2025 |
+| 📊 Complete Data Science Training | Udemy | Oct 2024 |
+| 📋 Power BI Training | LinkedIn Learning | Sept 2024 |
+| 📉 Tableau 2024 Training | LinkedIn Learning | Jun 2024 |
+| 🧠 Business Analysis Fundamentals | Udemy | Aug 2024 |
+
+---
+
+## 🌍 Languages I Speak
+
+`English` `Gujarati` `Hindi` `Swahili` `Punjabi` `French (Beginner)`
+
+---
+
+## 📬 Let's Connect!
+
+I'm actively looking for **junior Data Analyst roles** in Canada — open to remote! 🚀
+
+If you're working on something interesting with data, or have a role you think I'd be a great fit for, I'd love to hear from you.
+
+📧 **nunjpatel@gmail.com**
+💼 **[linkedin.com/in/nunjpatel](https://www.linkedin.com/in/nunjpatel/)**
+
+---
+
+⭐ *If you find any of my projects useful, feel free to star the repo — it helps a lot!*
